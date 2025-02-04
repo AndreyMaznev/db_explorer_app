@@ -3,9 +3,11 @@ A simple client-application to connect to PostgreSQL database and view all table
 2. Change application.properties with your credentials;
 3. Make sure that app not running in headless mode or there will be an exception;
 4. Run and enjoy :)
-![image](https://github.com/user-attachments/assets/d237c2d5-f9d0-4c8b-a83e-8b5119b82aa5)
  <br />
-![image](https://github.com/user-attachments/assets/07536c91-248c-4628-bccf-d0984b1f803c)
+![01](https://github.com/user-attachments/assets/abf85943-ddc8-421a-87a0-1eb4949ad10d)
  <br />
-![image](https://github.com/user-attachments/assets/05c48164-7b32-421e-837c-0396434fb436)
+![02](https://github.com/user-attachments/assets/11f83199-366f-47f7-95b4-58d5a5222515)
+ <br />
+![03](https://github.com/user-attachments/assets/8d2a19bb-c0d6-4d7e-bded-bf6dc6136a22)
+
  <br />
